@@ -1,0 +1,3 @@
+Empid,Name,Company
+5602,Seema Mandlik,Cloudthat
+5200,Rashi,TCS
